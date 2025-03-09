@@ -1,4 +1,4 @@
-# Camp Buddy 非公式日本語パッチ
+# Camp Buddy: Scoutmaster Season 非公式日本語パッチ
 
 ## 概要
 
